@@ -1,0 +1,8 @@
+.import
+/NativeDLL/.vs/
+*.dblite
+/Godot/bin/
+*.pdb
+*.obj
+*.dll
+*.pdb

@@ -1,0 +1,1 @@
+This is the starting project for a GDNative tutorial video.
