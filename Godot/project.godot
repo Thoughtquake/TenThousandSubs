@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="TenThousandSubs-Prep"
+config/name="TenThousandSubs"
 run/main_scene="res://Ocean.tscn"
 config/icon="res://icon.png"
 
